@@ -1,0 +1,71 @@
+img {
+    margin-bottom: 10px;
+}
+
+body {
+    height: 2000px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.col-content {
+    background-color: lightblue;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
+.navbar {
+    background-color: lightblue;
+}
+
+.btn-custom {
+    margin: 16px;
+    background-color: lightgoldenrodyellow;
+    color: mediumblue;
+    border-color: lightgray;
+}
+
+.modal-login .modal-content {
+    background-color: lightskyblue;
+}
+
+.modal-login .modal-body {
+    background-color: white;
+}
+
+.header-carousel-img {
+    height: 500px
+}
+
+.custom-carousel-item {
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.carousel-item-1 {
+    background-image: url(../images/car1.jpeg);
+}
+
+.carousel-item-2 {
+    background-image: url(../images/car2.jpeg);
+}
+
+.carousel-item-3 {
+    background-image: url(../images/car3.jpeg);
+}
+
+.carousel-item-4 {
+    background-image: url(../images/car4.jpeg);
+}
+
+.carousel-caption {
+    background-color: #000000a1;
+    margin-bottom: 30px;
+}
+
+.carousel-caption h5 {
+    color: mintcream;
+}

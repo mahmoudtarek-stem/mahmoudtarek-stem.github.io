@@ -1,0 +1,9 @@
+.col-content {
+    background-color: lightblue;
+    margin: 8px;
+}
+
+.row {
+    margin-bottom: 16px;
+    background-color: lightcoral;
+}
